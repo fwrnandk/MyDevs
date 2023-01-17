@@ -1,0 +1,2 @@
+Este é o meu primeiro projeto, que foi desenvolvido em grupo para feira de sites da minha escola, onde fui responsável por desenvolver o back-end com PHP e Mysql.
+MyDevs é um site de busca de empregos, onde o usuário consegue criar e editar seu perfil, fazer postagens com textos ou imagens e buscar por pessoas ou postagens na barra de pesquisa.

@@ -127,8 +127,8 @@
   </div>
   <div class="face face2">
     <div class="content">
-      <p>Email: emaildafeira2@gmail.com <br>
-      Telefone: +5511994167405 <br>
+      <p>Email: fernando123conta@gmail.com<br>
+      Telefone: +551123456789 <br>
       </p>
     </div>
   </div>
@@ -144,31 +144,31 @@
         <div class="footer-col">
             <h4>Contato</h4>
             <ul>
-                <li><a href="mailto:emaildafeira2@gmail.com"> Email </a></li>
-                <li><a href="tel:+5511994167405"> Telefone </a></li>
-                <li><a href="https://github.com/Lielziin"> GitHub </a></li>
-                <li><a href="https://replit.com/@grupodafeirapog"> Replit</a></li>
+                <li><a href="#"> Email </a></li>
+                <li><a href="#"> Telefone </a></li>
+                <li><a href="#"> GitHub </a></li>
+                <li><a href="#"> Replit</a></li>
             </ul>
         </div>
        
         <div class="footer-col">
             <h4>Obter ajuda</h4>
             <ul>
-                <li><a href="mailto:emaildafeira2@gmail.com">FAQ</a></li>
-                <li><a href="mailto:emaildafeira2@gmail.com">Duvidas</a></li>
-                <li><a href="mailto:emaildafeira2@gmail.com">Email</a></li>
-                <li><a href="tel:+5511994167405">Telefone</a></li>
-                <li><a href="https://github.com/Lielziin">GitHub</a></li>
+                <li><a href="#">FAQ</a></li>
+                <li><a href="#">Duvidas</a></li>
+                <li><a href="#">Email</a></li>
+                <li><a href="#">Telefone</a></li>
+                <li><a href="#">GitHub</a></li>
             </ul>
         </div>
         
         <div class="footer-col">
             <h4>Redes Socias</h4>
             <ul>
-                <li><a href="https://www.facebook.com/Elielsantosmumburra">Facebook</a></li>
-                <li><a href="https://twitter.com/elilohahaha?t=yXYO0k4alHnjhz40FsqHOg&s=09">Twitter</a></li>
-                <li><a href="https://instagram.com/elielkkkkk?igshid=YmMyMTA2M2Y=">Instragram</a></li>
-                <li><a href="https://www.linkedin.com/in/eliel-santos-659288257/">Linkedin</a></li>
+                <li><a href="#">Facebook</a></li>
+                <li><a href="#">Twitter</a></li>
+                <li><a href="#">Instragram</a></li>
+                <li><a href="#">Linkedin</a></li>
             </ul>
         </div>
 
